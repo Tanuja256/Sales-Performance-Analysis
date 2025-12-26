@@ -67,20 +67,21 @@ The Power BI dashboard includes:
 
 ##  Project Structure
 
-Sales-Performance-Analysis/
-│
-├── data/
+```text
+Sales-Performance-Analysis
+├── data
 │   ├── Extracting_dataset.ipynb
 │   ├── sales_dataset.csv
 │   └── dashboard_sales_data.csv
 │
-├── notebooks/
+├── notebooks
 │   └── sales_analysis.ipynb
 │
-├── dashboard/
+├── dashboard
 │   └── sales_dashboard.pbix
 │
 └── README.md
+```
 
 ##  How to Run the Project
 1. Clone the repository:
