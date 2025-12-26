@@ -66,21 +66,21 @@ The Power BI dashboard includes:
 - **Slicers**: Region and Category filters for interactivity
 
 ##  Project Structure
+
 Sales-Performance-Analysis/
 │
 ├── data/
-| |── Extracting_dataset.ipynb
-| |── sales_dataset.csv
-│ └── dashboard_sales_data.csv
+│   ├── Extracting_dataset.ipynb
+│   ├── sales_dataset.csv
+│   └── dashboard_sales_data.csv
 │
 ├── notebooks/
-│ └── sales_analysis.ipynb
+│   └── sales_analysis.ipynb
 │
 ├── dashboard/
-│ └── sales_dashboard.pbix
+│   └── sales_dashboard.pbix
 │
-├── README.md
-
+└── README.md
 
 ##  How to Run the Project
 1. Clone the repository:
